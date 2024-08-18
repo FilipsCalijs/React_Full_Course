@@ -22,4 +22,4 @@ As a result, I learned:
 - The React library and absolutely everything related to it (including Redux)
 - How to create full-fledged web applications
 
-For more details about the course, you can visit: [here](https://www.udemy.com/course/javascript_full/?couponCode=KEEPLEARNING)
+For more details about the course, you can visit: (https://www.udemy.com/course/javascript_full/?couponCode=KEEPLEARNING)
